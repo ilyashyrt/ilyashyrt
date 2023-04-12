@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **ihayrat786@gmail.com**
 
